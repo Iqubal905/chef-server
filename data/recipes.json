@@ -1,0 +1,48 @@
+{
+    "recipes": [
+      {
+        
+        "name": "Pad Thai",
+        "picture": "https://www.example.com/images/pad-thai.jpg",
+        "years_of_experience": 8,
+        "likes": 2000,
+        "country": "Thailand"
+      },
+      {
+        "name": "Tacos",
+        "picture": "https://www.example.com/images/tacos.jpg",
+        "years_of_experience": 6,
+        "likes": 1500,
+        "country": "Mexico"
+      },
+      {
+        "name": "Goulash",
+        "picture": "https://www.example.com/images/goulash.jpg",
+        "years_of_experience": 10,
+        "likes": 3000,
+        "country": "Hungary"
+      },
+      {
+        "name": "Pizza Margherita",
+        "picture": "https://www.example.com/images/pizza-margherita.jpg",
+        "years_of_experience": 4,
+        "likes": 1000,
+        "country": "Italy"
+      },
+      {
+        "name": "Paella",
+        "picture": "https://www.example.com/images/paella.jpg",
+        "years_of_experience": 7,
+        "likes": 2500,
+        "country": "Spain"
+      },
+      {
+        "name": "Sushi",
+        "picture": "https://www.example.com/images/sushi.jpg",
+        "years_of_experience": 9,
+        "likes": 1800,
+        "country": "Japan"
+      }
+    ]
+  }
+  
