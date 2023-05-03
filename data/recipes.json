@@ -1,5 +1,4 @@
-{
-    "recipes": [
+ [
       {
         "id" : 1,
         "name": "Pad Thai",
@@ -49,5 +48,3 @@
         "country": "Japan"
       }
     ]
-  }
-  
