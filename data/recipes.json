@@ -1,50 +1,57 @@
  [
       {
         "id" : 1,
-        "name": "Pad Thai",
-        "picture": "https://www.example.com/images/pad-thai.jpg",
+        "name": "Jiro Ono",
+        "picture": "https://media.istockphoto.com/id/1443215223/photo/chef-tasting-food-in-the-kitchen.jpg?s=1024x1024&w=is&k=20&c=hC_DP9F2D3-H5HBhFPivGTy0NirceI0ZStQHEYPNMiI=",
         "years_of_experience": 8,
         "likes": 2000,
-        "country": "Thailand"
+        "recipes": "50",
+        "bio": "Jiro Ono is a world-renowned sushi chef and the owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo, Japan. Born in 1925, he has been making sushi for over 70 years and is considered a living legend in the culinary world."
+
       },
       {
         "id" : 2,
-        "name": "Tacos",
-        "picture": "https://www.example.com/images/tacos.jpg",
+        "name": "Tetsuya Wakuda",
+        "picture": "https://media.istockphoto.com/id/586184784/photo/chef-serving-a-bowl-of-freshly-made-ramen.jpg?s=1024x1024&w=is&k=20&c=8no2190vLIWTRXUabcY9cVRXywbtP4V1bpR2vOOqHks=",
         "years_of_experience": 6,
         "likes": 1500,
-        "country": "Mexico"
+        "recipes": "30",
+         "bio": "Tetsuya Wakuda is a Japanese-Australian chef and restaurateur, known for his innovative cuisine that combines Japanese and Australian ingredients and techniques. He is the owner of Tetsuya's, a three-Michelin-starred restaurant in Sydney, Australia."
       },
       {
         "id" : 3,
-        "name": "Goulash",
-        "picture": "https://www.example.com/images/goulash.jpg",
+        "name": "Yoshihiro Murata",
+        "picture": "https://media.istockphoto.com/id/1135382312/photo/professional-chef-plating-gourmet-dish.jpg?s=1024x1024&w=is&k=20&c=fPx7KS6Un7941in9V_5Y6EPOmMZgfD-D3Uz_7n_3B_c=",
         "years_of_experience": 10,
         "likes": 3000,
-        "country": "Hungary"
+        "recipes": "50",
+         "bio": "Yoshihiro Murata is a third-generation Japanese chef and the owner of Kikunoi, a three-Michelin-starred restaurant in Kyoto, Japan. He is known for his traditional kaiseki cuisine, which is a multi-course meal that emphasizes seasonal and local ingredients."
       },
       {
         "id" : 4,
-        "name": "Pizza Margherita",
-        "picture": "https://www.example.com/images/pizza-margherita.jpg",
+        "name": "Nobu Matsuhisa",
+        "picture": "https://media.istockphoto.com/id/1445979014/photo/a-pastry-chef-who-creates-sweets-with-special-attention-to-detail.jpg?s=1024x1024&w=is&k=20&c=r00Qj0AyNWgY8G6ykTBg07pLmqz6NC4iQjaXEnr2urA=",
         "years_of_experience": 4,
         "likes": 1000,
-        "country": "Italy"
+        "recipes": "25",
+         "bio": " Nobu Matsuhisa is a Japanese chef and restaurateur, known for his fusion cuisine that combines Japanese and South American ingredients and techniques. He is the owner of Nobu, a global restaurant chain with locations in over 40 countries, and has been credited with popularizing sushi in the Western world."
       },
       {
         "id" : 5,
-        "name": "Paella",
-        "picture": "https://www.example.com/images/paella.jpg",
+        "name": "Heston Blumentha",
+        "picture": "https://media.istockphoto.com/id/1359979528/photo/asian-man-pointing-at-a-restaurant.jpg?s=1024x1024&w=is&k=20&c=AUoprETqfk4SED20GQD9fi_SMElsKq6tP7asHSqy0YU=",
         "years_of_experience": 7,
         "likes": 2500,
-        "country": "Spain"
+        "recipes": "14",
+         "bio": "Although he is not Japanese, Heston Blumenthal is a British chef who has been heavily influenced by Japanese cuisine. He is the owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, England, which is known for its avant-garde approach to food and innovative flavor combinations."
       },
       {
         "id" : 6,
-        "name": "Sushi",
-        "picture": "https://www.example.com/images/sushi.jpg",
+        "name": "Hiroyuki Sakai",
+        "picture": "https://media.istockphoto.com/id/1465286692/photo/male-chef-working-with-a-smile.jpg?s=1024x1024&w=is&k=20&c=ladM8Gdt5135NIVFZCoovwnascdeyKW6i5CZFv_x5dE=",
         "years_of_experience": 9,
         "likes": 1800,
-        "country": "Japan"
+        "recipes": "12",
+         "bio": " Hiroyuki Sakai is a Japanese chef and television personality, known for his French-influenced cuisine. He is the owner of La Rochelle, a restaurant in Tokyo, Japan, and has also appeared on the popular cooking competition show Iron Chef."
       }
     ]
